@@ -1,2 +1,2 @@
 # learnandtrain
-Just a very simple static website which I created backthen when I had been practicing bootstrap.
+A very simple non interactive website which I created while practicing Bootstrap.
